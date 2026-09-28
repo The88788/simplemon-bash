@@ -1,3 +1,5 @@
+![simplemon-bash - мониторинг сайта и сервера на bash](http://the88788.com/uploads/posts/2026-09/thumbs/simplemon.jpg)
+
 # simplemon-bash - мониторинг сайта и сервера на bash
 
 Простой мониторинг сайта и сервера на bash. Без зависимостей, без базы, без агентов: один скрипт и две строки в cron.
